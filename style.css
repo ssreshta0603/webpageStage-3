@@ -1,0 +1,27 @@
+h1{
+    color: #00FFFF;
+    border-style: solid;
+    margin-left: 650px;
+}
+
+.header{
+    /* #F0F8FF*/
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content:space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.item p{
+color: #050505
+}
